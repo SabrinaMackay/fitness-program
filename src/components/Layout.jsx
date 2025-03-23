@@ -11,7 +11,7 @@ export default function Layout(props){
 
     const footer= (
         <footer>
-            <p>Built by <a href="website.netlify.app" target="_blank">Sabrina</a></p>
+            <p>Built by <a href="https://github.com/SabrinaMackay" target="_blank">Sabrina</a></p>
         </footer>
     )
     return(
