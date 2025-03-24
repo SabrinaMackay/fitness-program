@@ -49,7 +49,7 @@ export default function Grid(){
 
                 const isLocked =(workoutIndex === 0 ? false : !completedWorkouts.includes(`${workoutIndex - 1}`))
                 const type = workoutIndex % 3 === 0 ? 'Push' 
-                                : workoutIndex % 1 === 1 ? 'Pull' 
+                                : workoutIndex % 3 === 1 ? 'Pull' 
                                 : 'Legs'
 
                 const trainingPlan = training_plan[workoutIndex]
