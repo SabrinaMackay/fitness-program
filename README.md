@@ -14,6 +14,8 @@ Once a workout day is completed, the next consecutive day's workout will be unlo
 
 If you require further instructions for any workout, you can press the icon next to the workout name to view a description.
 
+[Site Link](https://sabrina-fitness-app.netlify.app)
+
 ## Run Application locally
 
 1. Clone this repository.
